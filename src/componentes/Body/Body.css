@@ -1,0 +1,71 @@
+.Titulo {
+    position: absolute;
+    width: 194px;
+    height: 48px;
+    left: 120px;
+    top: 152px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    
+}
+
+.subtitulo-filmes{
+    position: absolute;
+    width: 66px;
+    height: 20px;
+    left: 120px;
+    top: 246px;
+
+    /* Title/semibold-16 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Gray Scale/gray-500 */
+
+    color: #B5B3CB;
+}
+
+.carrossel{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1288px;
+    top: 240px;
+
+}
+
+.subtitulo-series{
+    position: absolute;
+    width: 64px;
+    height: 20px;
+    left: 120px;
+    top: 598px;
+
+    /* Title/semibold-16 */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Gray Scale/gray-500 */
+
+    color: #B5B3CB;
+}

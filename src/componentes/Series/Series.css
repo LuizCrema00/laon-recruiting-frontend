@@ -1,0 +1,18 @@
+.lista-series {
+    display: flex;
+    position: absolute;
+    width: 1200px;
+    height: 312px;
+    left: 120px;
+    top: 640px;
+}
+
+.item-serie{
+    cursor: pointer;
+    margin-right: 10px;
+    transition: transform 0.3s;
+}
+
+.item-serie:hover {
+    transform: scale(1.1);
+}

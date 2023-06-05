@@ -1,0 +1,50 @@
+.rodape {
+    display: flex;
+    flex-direction: row;
+    background-color: #282639;
+    position: absolute;
+    width: 100%;
+    height: 112px;
+    left: 0px;
+    top: 1000px;
+    border-top: 1px solid #48465b;
+    padding-top: 20px
+}
+
+.logo {
+    position: absolute;
+    width: 132px;
+    height: 40px;
+    left: 120px;
+    top: 32px;
+}
+
+.lista {
+    position: absolute;
+    color: #B5B3CB;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 56px;
+    width: 1000px;
+    padding: 0px;
+    height: 17px;
+    left: 368px;
+    top: 30px;
+    font-style: none;
+    
+}
+
+.redes-sociais {
+    position: absolute;
+    width: 128px;
+    height: 32px;
+    left: 1350px;
+    top: 36px;
+    margin-right: 10px;
+}
+
+.twitter {
+    left: 1240px;
+}
+ 

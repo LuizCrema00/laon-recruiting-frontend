@@ -1,0 +1,18 @@
+.lista-filmes {
+    display: flex;
+    position: absolute;
+    width: 1200px;
+    height: 264px;
+    left: 120px;
+    top: 288px;
+}
+
+.item-filme {
+    cursor: pointer;
+    margin-right: 10px;
+    transition: transform 0.3s;
+}
+
+.item-filme:hover {
+    transform: scale(1.1);
+}
